@@ -1,0 +1,11 @@
+{
+    "name": "vezhl/hexlet-php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Artemiy Vezhlivtsev",
+            "email": "artvezhl@gmail.com"
+        }
+    ],
+    "require": {}
+}
